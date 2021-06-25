@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="GBK"?>
+<pmd-cpd>
+   <duplication lines="8" tokens="101">
+      <file line="21" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\LogicTest.java"/>
+      <file line="34" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\LogicTest.java"/>
+      <codefragment><![CDATA[	public void testgetNeighborCount() {
+		int grid[][] = {{0,0,0,0,0,0},
+				        {0,1,1,0,1,0},
+				        {0,1,1,0,0,0},
+				        {0,0,1,1,0,0},
+				        {0,0,1,1,1,0},
+				        {0,0,0,0,0,0}};
+		logic.setGrid(grid);]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="49">
+      <file line="254" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="304" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <codefragment><![CDATA[        {
+            // 从Logic类中获得每个网格细胞按钮对应的值：1或0
+            int[][] grid = logic.getGrid();
+
+            for (int i = 0; i < map.getMaxRowNum(); i++)
+            {
+                for (int j = 0; j < map.getMaxColNum(); j++)
+                {
+                    // 点击了某一个细胞按钮
+                    if (e.getSource() == btnGridCell[i][j])]]></codefragment>
+   </duplication>
+   <duplication lines="6" tokens="41">
+      <file line="73" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="163" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <codefragment><![CDATA[        for (int i = 0; i < map.getMaxRowNum(); i++)
+        {
+            for (int j = 0; j < map.getMaxColNum(); j++)
+            {
+                // 细胞网格，内容为空表示细胞
+                btnGridCell[i][j] = new JButton("");]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="37">
+      <file line="60" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="73" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <codefragment><![CDATA[    public void randomCell()
+    {
+        for (int i = 1; i <= maxRow; i++)
+        {
+            for (int j = 1; j <= maxCol; j++)
+            {
+                grid[i][j] = Math.random() > 0.5? 1 : 0;]]></codefragment>
+   </duplication>
+   <duplication lines="3" tokens="35">
+      <file line="162" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="256" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="305" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <codefragment><![CDATA[        btnExit.addActionListener(this);
+        for (int i = 0; i < map.getMaxRowNum(); i++) {
+            for (int j = 0; j < map.getMaxColNum(); j++) {]]></codefragment>
+   </duplication>
+   <duplication lines="4" tokens="34">
+      <file line="73" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="258" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <file line="307" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\GUI.java"/>
+      <codefragment><![CDATA[        for (int i = 0; i < map.getMaxRowNum(); i++)
+        {
+            for (int j = 0; j < map.getMaxColNum(); j++)
+            {]]></codefragment>
+   </duplication>
+   <duplication lines="5" tokens="34">
+      <file line="62" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="75" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="135" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <codefragment><![CDATA[        for (int i = 1; i <= maxRow; i++)
+        {
+            for (int j = 1; j <= maxCol; j++)
+            {
+                grid[i][j] = Math.random() > 0.5? 1 : 0;]]></codefragment>
+   </duplication>
+   <duplication lines="4" tokens="26">
+      <file line="62" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="75" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="113" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <file line="135" path="E:\IDE\Eclipse\eclipse-workspace\ex1\src\ex1\Logic.java"/>
+      <codefragment><![CDATA[        for (int i = 1; i <= maxRow; i++)
+        {
+            for (int j = 1; j <= maxCol; j++)
+            {]]></codefragment>
+   </duplication>
+</pmd-cpd>

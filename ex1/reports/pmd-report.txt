@@ -1,0 +1,472 @@
+src/ex1/GUI.java:7:	CommentRequired: Header comments are required
+src/ex1/GUI.java:7:	CommentRequired: Header comments are required
+src/ex1/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/ex1/GUI.java:7:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/ex1/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 5 (Highest = 13).
+src/ex1/GUI.java:7:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 5 (Highest = 13).
+src/ex1/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/ex1/GUI.java:7:	ShortClassName: Avoid short class names like GUI
+src/ex1/GUI.java:7:	StdCyclomaticComplexity: The class 'GUI' has a Standard Cyclomatic Complexity of 5 (Highest = 13).
+src/ex1/GUI.java:7:	StdCyclomaticComplexity: The class 'GUI' has a Standard Cyclomatic Complexity of 5 (Highest = 13).
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:10:	CommentRequired: Field comments are required
+src/ex1/GUI.java:10:	CommentRequired: Field comments are required
+src/ex1/GUI.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'backPanel' could be replaced by a local variable.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'backPanel' could be replaced by a local variable.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'bottomPanel' could be replaced by a local variable.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'bottomPanel' could be replaced by a local variable.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'centerPanel' could be replaced by a local variable.
+src/ex1/GUI.java:10:	SingularField: Perhaps 'centerPanel' could be replaced by a local variable.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:13:	CommentRequired: Field comments are required
+src/ex1/GUI.java:13:	CommentRequired: Field comments are required
+src/ex1/GUI.java:13:	LongVariable: Avoid excessively long variable names like labelNowGeneration
+src/ex1/GUI.java:13:	LongVariable: Avoid excessively long variable names like labelNowGeneration
+src/ex1/GUI.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelColNum' could be replaced by a local variable.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelColNum' could be replaced by a local variable.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelNowGeneration' could be replaced by a local variable.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelNowGeneration' could be replaced by a local variable.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelRowNum' could be replaced by a local variable.
+src/ex1/GUI.java:13:	SingularField: Perhaps 'labelRowNum' could be replaced by a local variable.
+src/ex1/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:16:	CommentRequired: Field comments are required
+src/ex1/GUI.java:16:	CommentRequired: Field comments are required
+src/ex1/GUI.java:16:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:16:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:19:	CommentRequired: Field comments are required
+src/ex1/GUI.java:19:	CommentRequired: Field comments are required
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:22:	CommentRequired: Field comments are required
+src/ex1/GUI.java:22:	CommentRequired: Field comments are required
+src/ex1/GUI.java:22:	LongVariable: Avoid excessively long variable names like btnClearGeneration
+src/ex1/GUI.java:22:	LongVariable: Avoid excessively long variable names like btnClearGeneration
+src/ex1/GUI.java:22:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:22:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:25:	CommentRequired: Field comments are required
+src/ex1/GUI.java:25:	CommentRequired: Field comments are required
+src/ex1/GUI.java:25:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:25:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/GUI.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:28:	CommentRequired: Field comments are required
+src/ex1/GUI.java:28:	CommentRequired: Field comments are required
+src/ex1/GUI.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the map field if you want a default access modifier
+src/ex1/GUI.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the map field if you want a default access modifier
+src/ex1/GUI.java:30:	CommentRequired: Field comments are required
+src/ex1/GUI.java:30:	CommentRequired: Field comments are required
+src/ex1/GUI.java:30:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/GUI.java:30:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/GUI.java:30:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/GUI.java:30:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/GUI.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/GUI.java:33:	CommentRequired: Field comments are required
+src/ex1/GUI.java:33:	CommentRequired: Field comments are required
+src/ex1/GUI.java:33:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:33:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:36:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:36:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/ex1/GUI.java:36:	MethodArgumentCouldBeFinal: Parameter 'arg' is not assigned and could be declared final
+src/ex1/GUI.java:42:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:42:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:48:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/ex1/GUI.java:48:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/ex1/GUI.java:52:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:52:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:52:	ExcessiveMethodLength: Avoid really long methods.
+src/ex1/GUI.java:52:	ExcessiveMethodLength: Avoid really long methods.
+src/ex1/GUI.java:52:	NcssCount: The method 'initGUI()' has a NCSS line count of 61.
+src/ex1/GUI.java:52:	NcssCount: The method 'initGUI()' has a NCSS line count of 61.
+src/ex1/GUI.java:78:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/ex1/GUI.java:78:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:92:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:92:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:101:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:101:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:113:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:113:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:149:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:149:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:149:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/ex1/GUI.java:149:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/ex1/GUI.java:149:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/ex1/GUI.java:149:	MissingOverride: The method 'windowClosed(WindowEvent)' is missing an @Override annotation.
+src/ex1/GUI.java:149:	ShortVariable: Avoid variables with short names like e
+src/ex1/GUI.java:149:	ShortVariable: Avoid variables with short names like e
+src/ex1/GUI.java:151:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/ex1/GUI.java:151:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:165:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:179:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:179:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:179:	CyclomaticComplexity: The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 13.
+src/ex1/GUI.java:179:	CyclomaticComplexity: The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 13.
+src/ex1/GUI.java:179:	ExcessiveMethodLength: Avoid really long methods.
+src/ex1/GUI.java:179:	ExcessiveMethodLength: Avoid really long methods.
+src/ex1/GUI.java:179:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/ex1/GUI.java:179:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/ex1/GUI.java:179:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/ex1/GUI.java:179:	MissingOverride: The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/ex1/GUI.java:179:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 13.
+src/ex1/GUI.java:179:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 13.
+src/ex1/GUI.java:179:	ShortVariable: Avoid variables with short names like e
+src/ex1/GUI.java:179:	ShortVariable: Avoid variables with short names like e
+src/ex1/GUI.java:179:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 13.
+src/ex1/GUI.java:179:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 13.
+src/ex1/GUI.java:200:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:200:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:250:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/ex1/GUI.java:250:	DoNotCallSystemExit: System.exit() should not be used in J2EE/JEE apps
+src/ex1/GUI.java:256:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '256'-'274').
+src/ex1/GUI.java:256:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '256'-'274').
+src/ex1/GUI.java:256:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '256'-'280').
+src/ex1/GUI.java:256:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'grid' (lines '256'-'280').
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:279:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:292:	CommentRequired: Protected method constructor comments are required
+src/ex1/GUI.java:292:	CommentRequired: Protected method constructor comments are required
+src/ex1/GUI.java:299:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:299:	AddEmptyString: Do not add empty strings
+src/ex1/GUI.java:305:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '305'-'323').
+src/ex1/GUI.java:305:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'grid' (lines '305'-'323').
+src/ex1/GUI.java:305:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/GUI.java:305:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/GUI.java:311:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/ex1/GUI.java:311:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:314:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:319:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/GUI.java:327:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:327:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:327:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:327:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ex1/GUI.java:329:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:329:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUI.java:329:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/ex1/GUI.java:329:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/ex1/GUI.java:337:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:337:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:340:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/ex1/GUI.java:340:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/ex1/GUI.java:349:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:349:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:365:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:365:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ex1/GUI.java:365:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/ex1/GUI.java:365:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/ex1/GUITest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/GUITest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/GUITest.java:8:	CommentRequired: Header comments are required
+src/ex1/GUITest.java:8:	CommentRequired: Header comments are required
+src/ex1/GUITest.java:11:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:11:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/ex1/GUITest.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/ex1/GUITest.java:15:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:15:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:20:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:25:	CommentRequired: Public method and constructor comments are required
+src/ex1/GUITest.java:25:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:3:	CommentRequired: Header comments are required
+src/ex1/Logic.java:3:	CommentRequired: Header comments are required
+src/ex1/Logic.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/Logic.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/Logic.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/Logic.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/Logic.java:6:	CommentRequired: Field comments are required
+src/ex1/Logic.java:6:	CommentRequired: Field comments are required
+src/ex1/Logic.java:6:	ImmutableField: Private field 'maxCol' could be made final; it is only initialized in the declaration or constructor.
+src/ex1/Logic.java:6:	ImmutableField: Private field 'maxCol' could be made final; it is only initialized in the declaration or constructor.
+src/ex1/Logic.java:6:	ImmutableField: Private field 'maxRow' could be made final; it is only initialized in the declaration or constructor.
+src/ex1/Logic.java:6:	ImmutableField: Private field 'maxRow' could be made final; it is only initialized in the declaration or constructor.
+src/ex1/Logic.java:6:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/Logic.java:6:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/ex1/Logic.java:8:	CommentRequired: Field comments are required
+src/ex1/Logic.java:8:	CommentRequired: Field comments are required
+src/ex1/Logic.java:10:	CommentRequired: Field comments are required
+src/ex1/Logic.java:10:	CommentRequired: Field comments are required
+src/ex1/Logic.java:13:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:13:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:13:	MethodArgumentCouldBeFinal: Parameter 'maxColNum' is not assigned and could be declared final
+src/ex1/Logic.java:13:	MethodArgumentCouldBeFinal: Parameter 'maxColNum' is not assigned and could be declared final
+src/ex1/Logic.java:13:	MethodArgumentCouldBeFinal: Parameter 'maxRowNum' is not assigned and could be declared final
+src/ex1/Logic.java:13:	MethodArgumentCouldBeFinal: Parameter 'maxRowNum' is not assigned and could be declared final
+src/ex1/Logic.java:36:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/ex1/Logic.java:36:	ArrayIsStoredDirectly: The user-supplied array 'grid' is stored directly.
+src/ex1/Logic.java:36:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/ex1/Logic.java:36:	MethodArgumentCouldBeFinal: Parameter 'grid' is not assigned and could be declared final
+src/ex1/Logic.java:36:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/ex1/Logic.java:36:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/ex1/Logic.java:44:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/ex1/Logic.java:44:	MethodReturnsInternalArray: Returning 'grid' may expose an internal array.
+src/ex1/Logic.java:48:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/ex1/Logic.java:48:	MethodArgumentCouldBeFinal: Parameter 'nowGeneration' is not assigned and could be declared final
+src/ex1/Logic.java:60:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:60:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:73:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:73:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:86:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:86:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:86:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Logic.java:86:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Logic.java:86:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/Logic.java:86:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/Logic.java:107:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:107:	CommentRequired: Public method and constructor comments are required
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'122').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'122').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'126').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'126').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'130').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '110'-'130').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '110'-'145').
+src/ex1/Logic.java:110:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '110'-'145').
+src/ex1/Logic.java:118:	MissingBreakInSwitch: A switch statement does not contain a break
+src/ex1/Logic.java:118:	MissingBreakInSwitch: A switch statement does not contain a break
+src/ex1/Logic.java:122:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '122'-'145').
+src/ex1/Logic.java:122:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '122'-'145').
+src/ex1/Logic.java:126:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '126'-'145').
+src/ex1/Logic.java:126:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '126'-'145').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'122').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'122').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'126').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'126').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'130').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'newGrid' (lines '130'-'130').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '130'-'145').
+src/ex1/Logic.java:130:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'newGrid' (lines '130'-'145').
+src/ex1/LogicTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/LogicTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/LogicTest.java:8:	CommentRequired: Header comments are required
+src/ex1/LogicTest.java:8:	CommentRequired: Header comments are required
+src/ex1/LogicTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/LogicTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/LogicTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the map field if you want a default access modifier
+src/ex1/LogicTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the map field if you want a default access modifier
+src/ex1/LogicTest.java:10:	CommentRequired: Field comments are required
+src/ex1/LogicTest.java:10:	CommentRequired: Field comments are required
+src/ex1/LogicTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/LogicTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/LogicTest.java:10:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/LogicTest.java:10:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/LogicTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/LogicTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/LogicTest.java:11:	CommentRequired: Field comments are required
+src/ex1/LogicTest.java:11:	CommentRequired: Field comments are required
+src/ex1/LogicTest.java:14:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:14:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:21:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:21:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:22:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/LogicTest.java:22:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/LogicTest.java:29:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/ex1/LogicTest.java:29:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/ex1/LogicTest.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/LogicTest.java:30:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/LogicTest.java:34:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:34:	CommentRequired: Public method and constructor comments are required
+src/ex1/LogicTest.java:35:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/LogicTest.java:35:	LocalVariableCouldBeFinal: Local variable 'grid' could be declared final
+src/ex1/LogicTest.java:39:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'Grid1' (lines '39'-'40').
+src/ex1/LogicTest.java:39:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'Grid1' (lines '39'-'40').
+src/ex1/LogicTest.java:39:	LocalVariableNamingConventions: The local variable name 'Grid1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:39:	LocalVariableNamingConventions: The local variable name 'Grid1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:39:	VariableNamingConventions: Variables should start with a lowercase character, 'Grid1' starts with uppercase character.
+src/ex1/LogicTest.java:39:	VariableNamingConventions: Variables should start with a lowercase character, 'Grid1' starts with uppercase character.
+src/ex1/LogicTest.java:40:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'Grid1' (lines '40'-'57').
+src/ex1/LogicTest.java:40:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'Grid1' (lines '40'-'57').
+src/ex1/LogicTest.java:41:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'R1' (lines '41'-'47').
+src/ex1/LogicTest.java:41:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'R1' (lines '41'-'47').
+src/ex1/LogicTest.java:41:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R1' (lines '41'-'57').
+src/ex1/LogicTest.java:41:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R1' (lines '41'-'57').
+src/ex1/LogicTest.java:41:	LocalVariableNamingConventions: The local variable name 'R1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:41:	LocalVariableNamingConventions: The local variable name 'R1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:41:	ShortVariable: Avoid variables with short names like R1
+src/ex1/LogicTest.java:41:	ShortVariable: Avoid variables with short names like R1
+src/ex1/LogicTest.java:41:	VariableNamingConventions: Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/ex1/LogicTest.java:41:	VariableNamingConventions: Variables should start with a lowercase character, 'R1' starts with uppercase character.
+src/ex1/LogicTest.java:42:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '42'-'57').
+src/ex1/LogicTest.java:42:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '42'-'57').
+src/ex1/LogicTest.java:42:	ShortVariable: Avoid variables with short names like n
+src/ex1/LogicTest.java:42:	ShortVariable: Avoid variables with short names like n
+src/ex1/LogicTest.java:47:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'R1' (lines '47'-'47').
+src/ex1/LogicTest.java:47:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'R1' (lines '47'-'47').
+src/ex1/LogicTest.java:47:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R1' (lines '47'-'57').
+src/ex1/LogicTest.java:47:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R1' (lines '47'-'57').
+src/ex1/LogicTest.java:48:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '48'-'57').
+src/ex1/LogicTest.java:48:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'n' (lines '48'-'57').
+src/ex1/LogicTest.java:51:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R2' (lines '51'-'57').
+src/ex1/LogicTest.java:51:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'R2' (lines '51'-'57').
+src/ex1/LogicTest.java:51:	LocalVariableCouldBeFinal: Local variable 'R2' could be declared final
+src/ex1/LogicTest.java:51:	LocalVariableCouldBeFinal: Local variable 'R2' could be declared final
+src/ex1/LogicTest.java:51:	LocalVariableNamingConventions: The local variable name 'R2' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:51:	LocalVariableNamingConventions: The local variable name 'R2' doesn't match '[a-z][a-zA-Z0-9]*'
+src/ex1/LogicTest.java:51:	ShortVariable: Avoid variables with short names like R2
+src/ex1/LogicTest.java:51:	ShortVariable: Avoid variables with short names like R2
+src/ex1/LogicTest.java:51:	VariableNamingConventions: Variables should start with a lowercase character, 'R2' starts with uppercase character.
+src/ex1/LogicTest.java:51:	VariableNamingConventions: Variables should start with a lowercase character, 'R2' starts with uppercase character.
+src/ex1/LogicTest.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/LogicTest.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/LogicTest.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/LogicTest.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/LogicTest.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/LogicTest.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ex1/Map.java:3:	CommentRequired: Header comments are required
+src/ex1/Map.java:3:	CommentRequired: Header comments are required
+src/ex1/Map.java:3:	DataClass: The class 'Map' is suspected to be a Data Class (WOC=18.182%, NOPA=0, NOAM=8, WMC=13)
+src/ex1/Map.java:3:	DataClass: The class 'Map' is suspected to be a Data Class (WOC=18.182%, NOPA=0, NOAM=8, WMC=13)
+src/ex1/Map.java:3:	ShortClassName: Avoid short class names like Map
+src/ex1/Map.java:3:	ShortClassName: Avoid short class names like Map
+src/ex1/Map.java:6:	CommentRequired: Field comments are required
+src/ex1/Map.java:6:	CommentRequired: Field comments are required
+src/ex1/Map.java:7:	CommentRequired: Field comments are required
+src/ex1/Map.java:7:	CommentRequired: Field comments are required
+src/ex1/Map.java:10:	CommentRequired: Field comments are required
+src/ex1/Map.java:10:	CommentRequired: Field comments are required
+src/ex1/Map.java:12:	CommentRequired: Field comments are required
+src/ex1/Map.java:12:	CommentRequired: Field comments are required
+src/ex1/Map.java:14:	CommentRequired: Field comments are required
+src/ex1/Map.java:14:	CommentRequired: Field comments are required
+src/ex1/Map.java:17:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:17:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:44:	MethodArgumentCouldBeFinal: Parameter 'maxColNum' is not assigned and could be declared final
+src/ex1/Map.java:44:	MethodArgumentCouldBeFinal: Parameter 'maxColNum' is not assigned and could be declared final
+src/ex1/Map.java:50:	MethodArgumentCouldBeFinal: Parameter 'maxRowNum' is not assigned and could be declared final
+src/ex1/Map.java:50:	MethodArgumentCouldBeFinal: Parameter 'maxRowNum' is not assigned and could be declared final
+src/ex1/Map.java:56:	BooleanGetMethodName: A getX() method which returns a boolean should be named isX()
+src/ex1/Map.java:56:	BooleanGetMethodName: A getX() method which returns a boolean should be named isX()
+src/ex1/Map.java:62:	MethodArgumentCouldBeFinal: Parameter 'isDead' is not assigned and could be declared final
+src/ex1/Map.java:62:	MethodArgumentCouldBeFinal: Parameter 'isDead' is not assigned and could be declared final
+src/ex1/Map.java:68:	BooleanGetMethodName: A getX() method which returns a boolean should be named isX()
+src/ex1/Map.java:68:	BooleanGetMethodName: A getX() method which returns a boolean should be named isX()
+src/ex1/Map.java:74:	MethodArgumentCouldBeFinal: Parameter 'isRunning' is not assigned and could be declared final
+src/ex1/Map.java:74:	MethodArgumentCouldBeFinal: Parameter 'isRunning' is not assigned and could be declared final
+src/ex1/Map.java:80:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:80:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:80:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Map.java:80:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Map.java:80:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/Map.java:80:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/Map.java:86:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:86:	CommentRequired: Public method and constructor comments are required
+src/ex1/Map.java:86:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Map.java:86:	MethodArgumentCouldBeFinal: Parameter 'col' is not assigned and could be declared final
+src/ex1/Map.java:86:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/Map.java:86:	MethodArgumentCouldBeFinal: Parameter 'row' is not assigned and could be declared final
+src/ex1/MapTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/MapTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ex1/MapTest.java:8:	CommentRequired: Header comments are required
+src/ex1/MapTest.java:8:	CommentRequired: Header comments are required
+src/ex1/MapTest.java:9:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/ex1/MapTest.java:9:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/ex1/MapTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/MapTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ex1/MapTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maptest field if you want a default access modifier
+src/ex1/MapTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maptest field if you want a default access modifier
+src/ex1/MapTest.java:9:	CommentRequired: Field comments are required
+src/ex1/MapTest.java:9:	CommentRequired: Field comments are required
+src/ex1/MapTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/MapTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ex1/MapTest.java:9:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/MapTest.java:9:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/ex1/MapTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:24:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:24:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:30:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:30:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:32:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/ex1/MapTest.java:32:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/ex1/MapTest.java:36:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:36:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:38:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/ex1/MapTest.java:38:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/ex1/MapTest.java:42:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:42:	CommentRequired: Public method and constructor comments are required
+src/ex1/MapTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/ex1/MapTest.java:44:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/ex1/MapTest.java:44:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
